@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Clima</string>
+    <string name="texto_grados">Tempe</string>
+    <string name="texto_ciudad">Ciudad</string>
+    <string name="texto_clima">Clima</string>
+    <string name="texto_humedad">Humedad</string>
+
+    <string name="texto_bienvenida_ciudad">
+        Bienvenido a mi app del clima, para poder ver el clima de una ciudad selecciona la opcion de abajo.
+    </string>
+    <string name="texto_boton_miami">Clima de Miami</string>
+    <string name="texto_boton_cdmx">Clima de CDMX</string>
+    <string name="texto_boton_moscu">Clima de Moscu</string>
+</resources>
